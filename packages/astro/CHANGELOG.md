@@ -1,5 +1,11 @@
 # astro
 
+## 1.1.6
+
+### Patch Changes
+
+- [#4584](https://github.com/withastro/astro/pull/4584) [`29a5fdc15`](https://github.com/withastro/astro/commit/29a5fdc1535fc389035d8107025f7490bfa976ed) Thanks [@bluwy](https://github.com/bluwy)! - Correctly escape paths in file names
+
 ## 1.1.5
 
 ### Patch Changes
